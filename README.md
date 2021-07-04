@@ -12,4 +12,7 @@ This app have these fratures till now:
   * Start. Delete, Stop, Show
 
 * Manage Images 
-  * Pull and remove, list
+  * Pull and Remove, List
+
+Note: You can go through this link to understand in details --> [Click here!](https://www.linkedin.com/posts/umeshtyagi829_problem-solution-note-activity-6815998266610655232-5RWT)
+
